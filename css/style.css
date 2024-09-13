@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(28, 14, 109);
+
+}
+.banner img{
+    background-color: rgb(11, 8, 168);
+    width: 100%;
+    border-radius: 1cap;
+    
+}
+.container{
+    background-color: rgb(25, 28, 236) ;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.menu{
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: 700;
+}
+.menu a{
+    color: rgb(17, 252, 56);
+    padding: 10px;
+    text-size-adjust: 2rem;
+    text-decoration: none;
+
+}
+.menu a:hover{
+    color: rgb(217, 241, 222);
+    text-decoration: none;
+    transition: 0.2s;
+    
+}
+.corpo{
+
+    text-align: justify;
+    height: auto;
+    min-height: 500px;
+    padding: 1rem;
+
+}
+.corpo h1{
+
+    background-color: rgba(152, 154, 250, 0.281);
+    color: rgb(17, 252, 56);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 10px;
+
+}
+.corpo P{
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(17, 0, 255);
+    padding: 2rem;
+
+}
+
+.rodape{
+
+    background-color: black;
+}
+.zap{
+
+    position: fixed;
+    text-align: center;
+}
+.zap img{
+    width: 3rem;
+
+}
+
